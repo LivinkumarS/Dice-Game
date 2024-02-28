@@ -151,6 +151,9 @@ a{
 }
 
 @media (max-width:490px){
+    .welcome,.head-text{
+        padding-top: 20px;
+    }
     .dice1,.dice2{
         width: 40vw;
         height: 40vw;
